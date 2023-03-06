@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
@@ -20,3 +20,11 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## アプリの確認
+
+1.アプリを実行する
+\$ npm run dev
+
+2.アプリの表示
+http://localhost:3000/
